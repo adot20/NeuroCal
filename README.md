@@ -8,5 +8,8 @@ It is only made for educational purpose.
 
 Have fun! :)
 
-![ccc](https://github.com/adot20/NeuroCal/assets/132744487/3d11181a-3955-4ce2-900f-2f259d96d891)
+# Output
+
+![ccc](https://github.com/adot20/NeuroCal/assets/132744487/1e9156a3-549c-41eb-93a6-09aec6d6529e)
+
 
